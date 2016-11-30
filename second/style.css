@@ -1,0 +1,27 @@
+
+.main {
+  display: flex;
+
+}
+.left {
+  background-color: blue;
+  width: 33.3vw;
+  height: 100vh;
+}
+.middle {
+  background-color: orange;
+  width: 33.3vw;
+  height: 100vh;
+}
+.right {
+  background-color: green;
+  width: 33.3vw;
+  height: 100vh;
+}
+.box {
+  width: 33.3vw;
+  height: 25vh;
+  position: absolute;
+  background-color: black;
+  margin: -25vh 66.6vw ;
+}
